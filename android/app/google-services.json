@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "620951973804",
+    "project_id": "flutter-flash-chat-8dda2",
+    "storage_bucket": "flutter-flash-chat-8dda2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620951973804:android:fe602e24579bb231d69409",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE0hHjb4ZzdwG91KKJQPyN1lgwWGi2tuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
